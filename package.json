@@ -1,0 +1,22 @@
+{
+  "name": "bd-app-structure",
+  "version": "0.0.0",
+  "description": "idealized bd app structure ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demohi/bd-app-structure.git"
+  },
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demohi/bd-app-structure/issues"
+  },
+  "homepage": "https://github.com/demohi/bd-app-structure",
+  "dependencies": {
+    "koa": "^0.18.1"
+  }
+}
